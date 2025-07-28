@@ -1,0 +1,1200 @@
+2025-07-27 20:55:26,598 ERROR Slow processing
+2025-07-27 20:55:27,062 INFO Request processed in 0.46s
+2025-07-27 20:55:27,161 INFO Request processed in 0.10s
+2025-07-27 20:55:27,578 INFO Request processed in 0.42s
+2025-07-27 20:55:28,517 ERROR Slow processing
+2025-07-27 20:55:28,678 INFO Request processed in 0.16s
+2025-07-27 20:55:28,982 INFO Request processed in 0.30s
+2025-07-27 20:55:29,671 INFO Request processed in 0.69s
+2025-07-27 20:55:30,569 ERROR Slow processing
+2025-07-27 20:55:31,358 INFO Request processed in 0.79s
+2025-07-27 20:55:32,174 ERROR Slow processing
+2025-07-27 20:55:32,222 INFO Request processed in 0.05s
+2025-07-27 20:55:32,637 INFO Request processed in 0.41s
+2025-07-27 20:55:32,861 INFO Request processed in 0.22s
+2025-07-27 20:55:33,508 INFO Request processed in 0.65s
+2025-07-27 20:55:33,706 INFO Request processed in 0.20s
+2025-07-27 20:55:33,820 INFO Request processed in 0.11s
+2025-07-27 20:55:34,240 INFO Request processed in 0.42s
+2025-07-27 20:55:34,253 INFO Request processed in 0.01s
+2025-07-27 20:55:34,879 INFO Request processed in 0.63s
+2025-07-27 20:55:35,691 ERROR Slow processing
+2025-07-27 20:55:36,460 INFO Request processed in 0.77s
+2025-07-27 20:55:36,818 INFO Request processed in 0.36s
+2025-07-27 20:55:37,204 INFO Request processed in 0.38s
+2025-07-27 20:55:37,580 INFO Request processed in 0.38s
+2025-07-27 20:55:38,446 ERROR Slow processing
+2025-07-27 20:55:39,319 ERROR Slow processing
+2025-07-27 20:55:39,497 INFO Request processed in 0.18s
+2025-07-27 20:55:40,151 INFO Request processed in 0.65s
+2025-07-27 20:55:40,552 INFO Request processed in 0.40s
+2025-07-27 20:55:41,196 INFO Request processed in 0.64s
+2025-07-27 20:55:41,596 INFO Request processed in 0.40s
+2025-07-27 20:55:42,104 INFO Request processed in 0.51s
+2025-07-27 20:55:42,718 INFO Request processed in 0.61s
+2025-07-27 20:55:42,810 INFO Request processed in 0.09s
+2025-07-27 20:55:43,471 INFO Request processed in 0.66s
+2025-07-27 20:55:44,013 INFO Request processed in 0.54s
+2025-07-27 20:55:44,704 INFO Request processed in 0.69s
+2025-07-27 20:55:44,970 INFO Request processed in 0.26s
+2025-07-27 20:55:45,810 ERROR Slow processing
+2025-07-27 20:55:46,625 ERROR Slow processing
+2025-07-27 20:55:47,247 INFO Request processed in 0.62s
+2025-07-27 20:55:47,348 INFO Request processed in 0.10s
+2025-07-27 20:55:48,017 INFO Request processed in 0.67s
+2025-07-27 20:55:48,236 INFO Request processed in 0.22s
+2025-07-27 20:55:49,027 INFO Request processed in 0.79s
+2025-07-27 20:55:49,535 INFO Request processed in 0.51s
+2025-07-27 20:55:51,702 INFO Request processed in 0.60s
+2025-07-27 20:55:52,417 INFO Request processed in 0.71s
+2025-07-27 20:55:53,287 ERROR Slow processing
+2025-07-27 20:55:54,271 ERROR Slow processing
+2025-07-27 20:55:54,500 INFO Request processed in 0.23s
+2025-07-27 20:55:54,809 INFO Request processed in 0.31s
+2025-07-27 20:55:55,047 INFO Request processed in 0.24s
+2025-07-27 20:55:55,978 ERROR Slow processing
+2025-07-27 20:55:56,137 INFO Request processed in 0.16s
+2025-07-27 20:55:56,270 INFO Request processed in 0.13s
+2025-07-27 20:55:56,907 INFO Request processed in 0.64s
+2025-07-27 20:55:57,034 INFO Request processed in 0.13s
+2025-07-27 20:55:57,080 INFO Request processed in 0.05s
+2025-07-27 20:55:57,892 ERROR Slow processing
+2025-07-27 20:55:58,086 INFO Request processed in 0.19s
+2025-07-27 20:55:58,906 ERROR Slow processing
+2025-07-27 20:55:59,015 INFO Request processed in 0.11s
+2025-07-27 20:55:59,691 INFO Request processed in 0.68s
+2025-07-27 20:55:59,885 INFO Request processed in 0.19s
+2025-07-27 20:56:00,020 INFO Request processed in 0.13s
+2025-07-27 20:56:00,303 INFO Request processed in 0.28s
+2025-07-27 20:56:00,962 INFO Request processed in 0.66s
+2025-07-27 20:56:01,657 INFO Request processed in 0.69s
+2025-07-27 20:56:02,379 INFO Request processed in 0.72s
+2025-07-27 20:56:03,319 ERROR Slow processing
+2025-07-27 20:56:04,190 ERROR Slow processing
+2025-07-27 20:56:04,241 INFO Request processed in 0.05s
+2025-07-27 20:56:04,284 INFO Request processed in 0.04s
+2025-07-27 20:56:04,864 INFO Request processed in 0.58s
+2025-07-27 20:56:05,757 ERROR Slow processing
+2025-07-27 20:56:06,035 INFO Request processed in 0.28s
+2025-07-27 20:56:06,526 INFO Request processed in 0.49s
+2025-07-27 20:56:06,594 INFO Request processed in 0.07s
+2025-07-27 20:56:06,657 INFO Request processed in 0.06s
+2025-07-27 20:56:07,455 INFO Request processed in 0.80s
+2025-07-27 20:56:07,712 INFO Request processed in 0.26s
+2025-07-27 20:56:08,275 INFO Request processed in 0.56s
+2025-07-27 20:56:08,878 INFO Request processed in 0.60s
+2025-07-27 20:56:08,995 INFO Request processed in 0.12s
+2025-07-27 20:56:09,166 INFO Request processed in 0.17s
+2025-07-27 20:56:09,692 INFO Request processed in 0.53s
+2025-07-27 20:56:10,098 INFO Request processed in 0.40s
+2025-07-27 20:56:10,315 INFO Request processed in 0.22s
+2025-07-27 20:56:10,712 INFO Request processed in 0.40s
+2025-07-27 20:56:11,536 ERROR Slow processing
+2025-07-27 20:56:12,093 INFO Request processed in 0.56s
+2025-07-27 20:56:12,641 INFO Request processed in 0.55s
+2025-07-27 20:56:13,053 INFO Request processed in 0.41s
+2025-07-27 20:56:13,916 ERROR Slow processing
+2025-07-27 20:56:14,296 INFO Request processed in 0.38s
+2025-07-27 20:56:14,956 INFO Request processed in 0.66s
+2025-07-27 20:56:15,348 INFO Request processed in 0.39s
+2025-07-27 20:56:15,788 INFO Request processed in 0.44s
+2025-07-27 20:56:16,206 INFO Request processed in 0.42s
+2025-07-27 20:56:16,516 INFO Request processed in 0.31s
+2025-07-27 20:56:17,409 ERROR Slow processing
+2025-07-27 20:56:18,378 ERROR Slow processing
+2025-07-27 20:56:19,255 ERROR Slow processing
+2025-07-27 20:56:20,106 ERROR Slow processing
+2025-07-27 20:56:20,933 ERROR Slow processing
+2025-07-27 20:56:20,963 INFO Request processed in 0.03s
+2025-07-27 20:56:21,043 INFO Request processed in 0.08s
+2025-07-27 20:56:21,114 INFO Request processed in 0.07s
+2025-07-27 20:56:21,995 ERROR Slow processing
+2025-07-27 20:56:22,958 ERROR Slow processing
+2025-07-27 20:56:23,670 INFO Request processed in 0.71s
+2025-07-27 20:56:24,109 INFO Request processed in 0.44s
+2025-07-27 20:56:24,961 ERROR Slow processing
+2025-07-27 20:56:25,049 INFO Request processed in 0.09s
+2025-07-27 20:56:25,701 INFO Request processed in 0.65s
+2025-07-27 20:56:26,340 INFO Request processed in 0.64s
+2025-07-27 20:56:26,414 INFO Request processed in 0.07s
+2025-07-27 20:56:27,250 ERROR Slow processing
+2025-07-27 20:56:28,056 ERROR Slow processing
+2025-07-27 20:56:28,399 INFO Request processed in 0.34s
+2025-07-27 20:56:28,638 INFO Request processed in 0.24s
+2025-07-27 20:56:29,552 ERROR Slow processing
+2025-07-27 20:56:30,309 INFO Request processed in 0.76s
+2025-07-27 20:56:30,446 INFO Request processed in 0.14s
+2025-07-27 20:56:30,769 INFO Request processed in 0.32s
+2025-07-27 20:56:31,271 INFO Request processed in 0.50s
+2025-07-27 20:56:32,249 ERROR Slow processing
+2025-07-27 20:56:33,238 ERROR Slow processing
+2025-07-27 20:56:33,552 INFO Request processed in 0.31s
+2025-07-27 20:56:33,626 INFO Request processed in 0.07s
+2025-07-27 20:56:34,493 ERROR Slow processing
+2025-07-27 20:56:35,452 ERROR Slow processing
+2025-07-27 20:56:36,309 ERROR Slow processing
+2025-07-27 20:56:36,490 INFO Request processed in 0.18s
+2025-07-27 20:56:36,670 INFO Request processed in 0.18s
+2025-07-27 20:56:37,161 INFO Request processed in 0.49s
+2025-07-27 20:56:37,519 INFO Request processed in 0.36s
+2025-07-27 20:56:38,477 ERROR Slow processing
+2025-07-27 20:56:39,252 INFO Request processed in 0.77s
+2025-07-27 20:56:40,128 ERROR Slow processing
+2025-07-27 20:56:41,030 ERROR Slow processing
+2025-07-27 20:56:41,627 INFO Request processed in 0.60s
+2025-07-27 20:56:41,972 INFO Request processed in 0.34s
+2025-07-27 20:56:42,227 INFO Request processed in 0.25s
+2025-07-27 20:56:43,036 ERROR Slow processing
+2025-07-27 20:56:43,421 INFO Request processed in 0.38s
+2025-07-27 20:56:43,951 INFO Request processed in 0.53s
+2025-07-27 20:56:44,828 ERROR Slow processing
+2025-07-27 20:56:44,936 INFO Request processed in 0.11s
+2025-07-27 20:56:45,627 INFO Request processed in 0.69s
+2025-07-27 20:56:45,783 INFO Request processed in 0.15s
+2025-07-27 20:56:46,426 INFO Request processed in 0.64s
+2025-07-27 20:56:47,243 ERROR Slow processing
+2025-07-27 20:56:47,902 INFO Request processed in 0.66s
+2025-07-27 20:56:48,372 INFO Request processed in 0.47s
+2025-07-27 20:56:49,080 INFO Request processed in 0.71s
+2025-07-27 20:56:49,199 INFO Request processed in 0.12s
+2025-07-27 20:56:49,471 INFO Request processed in 0.27s
+2025-07-27 20:56:50,101 INFO Request processed in 0.63s
+2025-07-27 20:56:50,111 INFO Request processed in 0.01s
+2025-07-27 20:56:50,662 INFO Request processed in 0.55s
+2025-07-27 20:56:50,803 INFO Request processed in 0.14s
+2025-07-27 20:56:51,337 INFO Request processed in 0.53s
+2025-07-27 20:56:52,048 INFO Request processed in 0.71s
+2025-07-27 20:56:52,615 INFO Request processed in 0.57s
+2025-07-27 20:56:53,408 INFO Request processed in 0.79s
+2025-07-27 20:56:53,730 INFO Request processed in 0.32s
+2025-07-27 20:56:54,653 ERROR Slow processing
+2025-07-27 20:56:55,102 INFO Request processed in 0.45s
+2025-07-27 20:56:55,974 ERROR Slow processing
+2025-07-27 20:56:56,517 INFO Request processed in 0.54s
+2025-07-27 20:56:57,069 INFO Request processed in 0.55s
+2025-07-27 20:56:57,166 INFO Request processed in 0.10s
+2025-07-27 20:56:57,569 INFO Request processed in 0.40s
+2025-07-27 20:56:57,699 INFO Request processed in 0.13s
+2025-07-27 20:56:58,683 ERROR Slow processing
+2025-07-27 20:56:59,210 INFO Request processed in 0.53s
+2025-07-27 20:56:59,741 INFO Request processed in 0.53s
+2025-07-27 20:56:59,745 INFO Request processed in 0.00s
+2025-07-27 20:57:00,665 ERROR Slow processing
+2025-07-27 20:57:01,044 INFO Request processed in 0.38s
+2025-07-27 20:57:01,955 ERROR Slow processing
+2025-07-27 20:57:02,457 INFO Request processed in 0.50s
+2025-07-27 20:57:02,742 INFO Request processed in 0.28s
+2025-07-27 20:57:03,300 INFO Request processed in 0.56s
+2025-07-27 20:57:04,040 INFO Request processed in 0.74s
+2025-07-27 20:57:04,108 INFO Request processed in 0.07s
+2025-07-27 20:57:04,303 INFO Request processed in 0.19s
+2025-07-27 20:57:05,094 INFO Request processed in 0.79s
+2025-07-27 20:57:05,955 ERROR Slow processing
+2025-07-27 20:57:05,962 INFO Request processed in 0.01s
+2025-07-27 20:57:06,860 ERROR Slow processing
+2025-07-27 20:57:07,464 INFO Request processed in 0.60s
+2025-07-27 20:57:08,209 INFO Request processed in 0.74s
+2025-07-27 20:57:08,448 INFO Request processed in 0.24s
+2025-07-27 20:57:08,594 INFO Request processed in 0.15s
+2025-07-27 20:57:09,543 ERROR Slow processing
+2025-07-27 20:57:09,593 INFO Request processed in 0.05s
+2025-07-27 20:57:09,967 INFO Request processed in 0.37s
+2025-07-27 20:57:10,426 INFO Request processed in 0.46s
+2025-07-27 20:57:11,261 ERROR Slow processing
+2025-07-27 20:57:11,428 INFO Request processed in 0.17s
+2025-07-27 20:57:11,719 INFO Request processed in 0.29s
+2025-07-27 20:57:12,325 INFO Request processed in 0.61s
+2025-07-27 20:57:12,916 INFO Request processed in 0.59s
+2025-07-27 20:57:13,183 INFO Request processed in 0.27s
+2025-07-27 20:57:13,995 ERROR Slow processing
+2025-07-27 20:57:14,458 INFO Request processed in 0.46s
+2025-07-27 20:57:14,494 INFO Request processed in 0.03s
+2025-07-27 20:57:14,596 INFO Request processed in 0.10s
+2025-07-27 20:57:15,085 INFO Request processed in 0.49s
+2025-07-27 20:57:15,366 INFO Request processed in 0.28s
+2025-07-27 20:57:15,465 INFO Request processed in 0.10s
+2025-07-27 20:57:15,554 INFO Request processed in 0.09s
+2025-07-27 20:57:15,641 INFO Request processed in 0.09s
+2025-07-27 20:57:16,144 INFO Request processed in 0.50s
+2025-07-27 20:57:17,144 ERROR Slow processing
+2025-07-27 20:57:17,980 ERROR Slow processing
+2025-07-27 20:57:18,437 INFO Request processed in 0.46s
+2025-07-27 20:57:19,192 INFO Request processed in 0.76s
+2025-07-27 20:57:20,027 ERROR Slow processing
+2025-07-27 20:57:20,556 INFO Request processed in 0.53s
+2025-07-27 20:57:20,977 INFO Request processed in 0.42s
+2025-07-27 20:57:21,139 INFO Request processed in 0.16s
+2025-07-27 20:57:21,335 INFO Request processed in 0.20s
+2025-07-27 20:57:21,864 INFO Request processed in 0.53s
+2025-07-27 20:57:22,081 INFO Request processed in 0.21s
+2025-07-27 20:57:22,168 INFO Request processed in 0.09s
+2025-07-27 20:57:22,442 INFO Request processed in 0.27s
+2025-07-27 20:57:22,625 INFO Request processed in 0.18s
+2025-07-27 20:57:23,007 INFO Request processed in 0.38s
+2025-07-27 20:57:23,142 INFO Request processed in 0.13s
+2025-07-27 20:57:23,738 INFO Request processed in 0.60s
+2025-07-27 20:57:24,294 INFO Request processed in 0.56s
+2025-07-27 20:57:25,034 INFO Request processed in 0.74s
+2025-07-27 20:57:25,800 INFO Request processed in 0.77s
+2025-07-27 20:57:26,709 ERROR Slow processing
+2025-07-27 20:57:27,316 INFO Request processed in 0.61s
+2025-07-27 20:57:27,943 INFO Request processed in 0.63s
+2025-07-27 20:57:28,601 INFO Request processed in 0.66s
+2025-07-27 20:57:29,556 ERROR Slow processing
+2025-07-27 20:57:30,498 ERROR Slow processing
+2025-07-27 20:57:30,873 INFO Request processed in 0.37s
+2025-07-27 20:57:31,833 ERROR Slow processing
+2025-07-27 20:57:32,727 ERROR Slow processing
+2025-07-27 20:57:32,948 INFO Request processed in 0.22s
+2025-07-27 20:57:33,358 INFO Request processed in 0.41s
+2025-07-27 20:57:33,504 INFO Request processed in 0.14s
+2025-07-27 20:57:34,028 INFO Request processed in 0.52s
+2025-07-27 20:57:34,281 INFO Request processed in 0.25s
+2025-07-27 20:57:34,368 INFO Request processed in 0.09s
+2025-07-27 20:57:34,584 INFO Request processed in 0.21s
+2025-07-27 20:57:34,629 INFO Request processed in 0.04s
+2025-07-27 20:57:34,926 INFO Request processed in 0.30s
+2025-07-27 20:57:35,742 ERROR Slow processing
+2025-07-27 20:57:36,633 ERROR Slow processing
+2025-07-27 20:57:36,958 INFO Request processed in 0.32s
+2025-07-27 20:57:37,905 ERROR Slow processing
+2025-07-27 20:57:38,359 INFO Request processed in 0.45s
+2025-07-27 20:57:39,030 INFO Request processed in 0.67s
+2025-07-27 20:57:39,187 INFO Request processed in 0.16s
+2025-07-27 20:57:40,101 ERROR Slow processing
+2025-07-27 20:57:40,280 INFO Request processed in 0.18s
+2025-07-27 20:57:40,308 INFO Request processed in 0.03s
+2025-07-27 20:57:41,091 INFO Request processed in 0.78s
+2025-07-27 20:57:41,094 INFO Request processed in 0.00s
+2025-07-27 20:57:41,935 ERROR Slow processing
+2025-07-27 20:57:42,189 INFO Request processed in 0.25s
+2025-07-27 20:57:42,831 INFO Request processed in 0.64s
+2025-07-27 20:57:43,494 INFO Request processed in 0.66s
+2025-07-27 20:57:43,663 INFO Request processed in 0.17s
+2025-07-27 20:57:43,788 INFO Request processed in 0.12s
+2025-07-27 20:57:44,450 INFO Request processed in 0.66s
+2025-07-27 20:57:44,639 INFO Request processed in 0.19s
+2025-07-27 20:57:45,077 INFO Request processed in 0.44s
+2025-07-27 20:57:45,867 INFO Request processed in 0.79s
+2025-07-27 20:57:46,337 INFO Request processed in 0.47s
+2025-07-27 20:57:47,234 ERROR Slow processing
+2025-07-27 20:57:47,910 INFO Request processed in 0.68s
+2025-07-27 20:57:48,550 INFO Request processed in 0.64s
+2025-07-27 20:57:49,126 INFO Request processed in 0.58s
+2025-07-27 20:57:49,166 INFO Request processed in 0.04s
+2025-07-27 20:57:49,984 ERROR Slow processing
+2025-07-27 20:57:50,495 INFO Request processed in 0.51s
+2025-07-27 20:57:51,432 ERROR Slow processing
+2025-07-27 20:57:51,988 INFO Request processed in 0.55s
+2025-07-27 20:57:52,847 ERROR Slow processing
+2025-07-27 20:57:53,053 INFO Request processed in 0.21s
+2025-07-27 20:57:53,231 INFO Request processed in 0.18s
+2025-07-27 20:57:54,045 ERROR Slow processing
+2025-07-27 20:57:55,044 ERROR Slow processing
+2025-07-27 20:57:55,733 INFO Request processed in 0.69s
+2025-07-27 20:57:56,484 INFO Request processed in 0.75s
+2025-07-27 20:57:57,339 ERROR Slow processing
+2025-07-27 20:57:57,887 INFO Request processed in 0.55s
+2025-07-27 20:57:58,878 ERROR Slow processing
+2025-07-27 20:57:59,754 ERROR Slow processing
+2025-07-27 20:58:00,461 INFO Request processed in 0.71s
+2025-07-27 20:58:00,894 INFO Request processed in 0.43s
+2025-07-27 20:58:00,918 INFO Request processed in 0.02s
+2025-07-27 20:58:01,747 ERROR Slow processing
+2025-07-27 20:58:02,496 INFO Request processed in 0.75s
+2025-07-27 20:58:02,598 INFO Request processed in 0.10s
+2025-07-27 20:58:02,654 INFO Request processed in 0.06s
+2025-07-27 20:58:03,439 INFO Request processed in 0.79s
+2025-07-27 20:58:04,169 INFO Request processed in 0.73s
+2025-07-27 20:58:04,845 INFO Request processed in 0.68s
+2025-07-27 20:58:05,141 INFO Request processed in 0.30s
+2025-07-27 20:58:06,009 ERROR Slow processing
+2025-07-27 20:58:06,053 INFO Request processed in 0.04s
+2025-07-27 20:58:06,674 INFO Request processed in 0.62s
+2025-07-27 20:58:07,426 INFO Request processed in 0.75s
+2025-07-27 20:58:07,855 INFO Request processed in 0.43s
+2025-07-27 20:58:08,115 INFO Request processed in 0.26s
+2025-07-27 20:58:08,614 INFO Request processed in 0.50s
+2025-07-27 20:58:09,495 ERROR Slow processing
+2025-07-27 20:58:10,252 INFO Request processed in 0.76s
+2025-07-27 20:58:11,188 ERROR Slow processing
+2025-07-27 20:58:11,535 INFO Request processed in 0.35s
+2025-07-27 20:58:12,222 INFO Request processed in 0.69s
+2025-07-27 20:58:12,893 INFO Request processed in 0.67s
+2025-07-27 20:58:13,142 INFO Request processed in 0.25s
+2025-07-27 20:58:13,673 INFO Request processed in 0.53s
+2025-07-27 20:58:14,620 ERROR Slow processing
+2025-07-27 20:58:15,388 INFO Request processed in 0.77s
+2025-07-27 20:58:16,322 ERROR Slow processing
+2025-07-27 20:58:16,821 INFO Request processed in 0.50s
+2025-07-27 20:58:16,855 INFO Request processed in 0.03s
+2025-07-27 20:58:17,104 INFO Request processed in 0.25s
+2025-07-27 20:58:17,462 INFO Request processed in 0.36s
+2025-07-27 20:58:18,184 INFO Request processed in 0.72s
+2025-07-27 20:58:18,858 INFO Request processed in 0.67s
+2025-07-27 20:58:19,041 INFO Request processed in 0.18s
+2025-07-27 20:58:19,918 ERROR Slow processing
+2025-07-27 20:58:20,513 INFO Request processed in 0.59s
+2025-07-27 20:58:21,093 INFO Request processed in 0.58s
+2025-07-27 20:58:21,526 INFO Request processed in 0.43s
+2025-07-27 20:58:21,752 INFO Request processed in 0.22s
+2025-07-27 20:58:22,087 INFO Request processed in 0.33s
+2025-07-27 20:58:22,317 INFO Request processed in 0.23s
+2025-07-27 20:58:22,529 INFO Request processed in 0.21s
+2025-07-27 20:58:23,304 INFO Request processed in 0.77s
+2025-07-27 20:58:23,788 INFO Request processed in 0.48s
+2025-07-27 20:58:24,177 INFO Request processed in 0.39s
+2025-07-27 20:58:24,483 INFO Request processed in 0.31s
+2025-07-27 20:58:25,427 ERROR Slow processing
+2025-07-27 20:58:25,636 INFO Request processed in 0.21s
+2025-07-27 20:58:25,793 INFO Request processed in 0.16s
+2025-07-27 20:58:26,772 ERROR Slow processing
+2025-07-27 20:58:27,161 INFO Request processed in 0.39s
+2025-07-27 20:58:27,601 INFO Request processed in 0.44s
+2025-07-27 20:58:27,865 INFO Request processed in 0.26s
+2025-07-27 20:58:28,266 INFO Request processed in 0.40s
+2025-07-27 20:58:28,526 INFO Request processed in 0.26s
+2025-07-27 20:58:29,220 INFO Request processed in 0.69s
+2025-07-27 20:58:29,429 INFO Request processed in 0.21s
+2025-07-27 20:58:30,267 ERROR Slow processing
+2025-07-27 20:58:30,994 INFO Request processed in 0.73s
+2025-07-27 20:58:31,465 INFO Request processed in 0.47s
+2025-07-27 20:58:31,512 INFO Request processed in 0.05s
+2025-07-27 20:58:31,954 INFO Request processed in 0.44s
+2025-07-27 20:58:32,113 INFO Request processed in 0.16s
+2025-07-27 20:58:33,067 ERROR Slow processing
+2025-07-27 20:58:33,471 INFO Request processed in 0.40s
+2025-07-27 20:58:34,143 INFO Request processed in 0.67s
+2025-07-27 20:58:34,772 INFO Request processed in 0.63s
+2025-07-27 20:58:35,677 ERROR Slow processing
+2025-07-27 20:58:36,181 INFO Request processed in 0.50s
+2025-07-27 20:58:37,095 ERROR Slow processing
+2025-07-27 20:58:37,924 ERROR Slow processing
+2025-07-27 20:58:38,053 INFO Request processed in 0.13s
+2025-07-27 20:58:38,920 ERROR Slow processing
+2025-07-27 20:58:39,253 INFO Request processed in 0.33s
+2025-07-27 20:58:39,549 INFO Request processed in 0.30s
+2025-07-27 20:58:40,510 ERROR Slow processing
+2025-07-27 20:58:41,195 INFO Request processed in 0.68s
+2025-07-27 20:58:41,821 INFO Request processed in 0.62s
+2025-07-27 20:58:42,335 INFO Request processed in 0.51s
+2025-07-27 20:58:42,917 INFO Request processed in 0.58s
+2025-07-27 20:58:43,365 INFO Request processed in 0.45s
+2025-07-27 20:58:43,478 INFO Request processed in 0.11s
+2025-07-27 20:58:43,721 INFO Request processed in 0.24s
+2025-07-27 20:58:44,378 INFO Request processed in 0.66s
+2025-07-27 20:58:44,884 INFO Request processed in 0.51s
+2025-07-27 20:58:45,064 INFO Request processed in 0.18s
+2025-07-27 20:58:45,771 INFO Request processed in 0.71s
+2025-07-27 20:58:45,860 INFO Request processed in 0.09s
+2025-07-27 20:58:46,102 INFO Request processed in 0.24s
+2025-07-27 20:58:46,728 INFO Request processed in 0.62s
+2025-07-27 20:58:47,070 INFO Request processed in 0.34s
+2025-07-27 20:58:47,420 INFO Request processed in 0.35s
+2025-07-27 20:58:47,667 INFO Request processed in 0.25s
+2025-07-27 20:58:48,472 ERROR Slow processing
+2025-07-27 20:58:49,029 INFO Request processed in 0.56s
+2025-07-27 20:58:49,253 INFO Request processed in 0.22s
+2025-07-27 20:58:50,080 ERROR Slow processing
+2025-07-27 20:58:50,194 INFO Request processed in 0.11s
+2025-07-27 20:58:51,048 ERROR Slow processing
+2025-07-27 20:58:51,993 ERROR Slow processing
+2025-07-27 20:58:52,940 ERROR Slow processing
+2025-07-27 20:58:53,768 ERROR Slow processing
+2025-07-27 20:58:54,132 INFO Request processed in 0.36s
+2025-07-27 20:58:55,027 ERROR Slow processing
+2025-07-27 20:58:55,697 INFO Request processed in 0.67s
+2025-07-27 20:58:55,854 INFO Request processed in 0.16s
+2025-07-27 20:58:56,443 INFO Request processed in 0.59s
+2025-07-27 20:58:56,631 INFO Request processed in 0.19s
+2025-07-27 20:58:57,192 INFO Request processed in 0.56s
+2025-07-27 20:58:57,880 INFO Request processed in 0.69s
+2025-07-27 20:58:58,071 INFO Request processed in 0.19s
+2025-07-27 20:58:58,497 INFO Request processed in 0.43s
+2025-07-27 20:58:59,347 ERROR Slow processing
+2025-07-27 20:59:00,068 INFO Request processed in 0.72s
+2025-07-27 20:59:00,675 INFO Request processed in 0.61s
+2025-07-27 20:59:00,950 INFO Request processed in 0.27s
+2025-07-27 20:59:01,229 INFO Request processed in 0.28s
+2025-07-27 20:59:01,865 INFO Request processed in 0.64s
+2025-07-27 20:59:02,628 INFO Request processed in 0.76s
+2025-07-27 20:59:03,022 INFO Request processed in 0.39s
+2025-07-27 20:59:03,128 INFO Request processed in 0.11s
+2025-07-27 20:59:03,151 INFO Request processed in 0.02s
+2025-07-27 20:59:03,166 INFO Request processed in 0.01s
+2025-07-27 20:59:03,481 INFO Request processed in 0.31s
+2025-07-27 20:59:03,993 INFO Request processed in 0.51s
+2025-07-27 20:59:04,982 ERROR Slow processing
+2025-07-27 20:59:05,865 ERROR Slow processing
+2025-07-27 20:59:06,509 INFO Request processed in 0.64s
+2025-07-27 20:59:06,593 INFO Request processed in 0.08s
+2025-07-27 20:59:06,995 INFO Request processed in 0.40s
+2025-07-27 20:59:07,172 INFO Request processed in 0.18s
+2025-07-27 20:59:07,861 INFO Request processed in 0.69s
+2025-07-27 20:59:07,939 INFO Request processed in 0.08s
+2025-07-27 20:59:08,343 INFO Request processed in 0.40s
+2025-07-27 20:59:09,060 INFO Request processed in 0.72s
+2025-07-27 20:59:09,866 ERROR Slow processing
+2025-07-27 20:59:10,145 INFO Request processed in 0.28s
+2025-07-27 20:59:10,507 INFO Request processed in 0.36s
+2025-07-27 20:59:11,472 ERROR Slow processing
+2025-07-27 20:59:12,098 INFO Request processed in 0.63s
+2025-07-27 20:59:12,883 INFO Request processed in 0.78s
+2025-07-27 20:59:13,032 INFO Request processed in 0.15s
+2025-07-27 20:59:13,863 ERROR Slow processing
+2025-07-27 20:59:14,302 INFO Request processed in 0.44s
+2025-07-27 20:59:14,400 INFO Request processed in 0.10s
+2025-07-27 20:59:14,626 INFO Request processed in 0.23s
+2025-07-27 20:59:15,305 INFO Request processed in 0.68s
+2025-07-27 20:59:16,036 INFO Request processed in 0.73s
+2025-07-27 20:59:16,578 INFO Request processed in 0.54s
+2025-07-27 20:59:16,869 INFO Request processed in 0.29s
+2025-07-27 20:59:17,656 INFO Request processed in 0.79s
+2025-07-27 20:59:17,703 INFO Request processed in 0.05s
+2025-07-27 20:59:17,969 INFO Request processed in 0.27s
+2025-07-27 20:59:18,462 INFO Request processed in 0.49s
+2025-07-27 20:59:18,713 INFO Request processed in 0.25s
+2025-07-27 20:59:18,972 INFO Request processed in 0.26s
+2025-07-27 20:59:19,440 INFO Request processed in 0.47s
+2025-07-27 20:59:20,107 INFO Request processed in 0.67s
+2025-07-27 20:59:21,060 ERROR Slow processing
+2025-07-27 20:59:21,613 INFO Request processed in 0.55s
+2025-07-27 20:59:22,196 INFO Request processed in 0.58s
+2025-07-27 20:59:22,965 INFO Request processed in 0.77s
+2025-07-27 20:59:23,173 INFO Request processed in 0.21s
+2025-07-27 20:59:23,258 INFO Request processed in 0.08s
+2025-07-27 20:59:23,444 INFO Request processed in 0.19s
+2025-07-27 20:59:23,549 INFO Request processed in 0.10s
+2025-07-27 20:59:23,904 INFO Request processed in 0.35s
+2025-07-27 20:59:24,375 INFO Request processed in 0.47s
+2025-07-27 20:59:24,996 INFO Request processed in 0.62s
+2025-07-27 20:59:25,052 INFO Request processed in 0.06s
+2025-07-27 20:59:25,963 ERROR Slow processing
+2025-07-27 20:59:26,880 ERROR Slow processing
+2025-07-27 20:59:27,826 ERROR Slow processing
+2025-07-27 20:59:28,047 INFO Request processed in 0.22s
+2025-07-27 20:59:28,315 INFO Request processed in 0.27s
+2025-07-27 20:59:28,390 INFO Request processed in 0.07s
+2025-07-27 20:59:29,057 INFO Request processed in 0.67s
+2025-07-27 20:59:29,383 INFO Request processed in 0.32s
+2025-07-27 20:59:30,300 ERROR Slow processing
+2025-07-27 20:59:31,007 INFO Request processed in 0.71s
+2025-07-27 20:59:31,790 INFO Request processed in 0.78s
+2025-07-27 20:59:32,498 INFO Request processed in 0.71s
+2025-07-27 20:59:33,427 ERROR Slow processing
+2025-07-27 20:59:34,268 ERROR Slow processing
+2025-07-27 20:59:34,343 INFO Request processed in 0.07s
+2025-07-27 20:59:34,365 INFO Request processed in 0.02s
+2025-07-27 20:59:35,252 ERROR Slow processing
+2025-07-27 20:59:36,074 ERROR Slow processing
+2025-07-27 20:59:36,658 INFO Request processed in 0.58s
+2025-07-27 20:59:37,013 INFO Request processed in 0.36s
+2025-07-27 20:59:37,136 INFO Request processed in 0.12s
+2025-07-27 20:59:37,267 INFO Request processed in 0.13s
+2025-07-27 20:59:37,981 INFO Request processed in 0.71s
+2025-07-27 20:59:38,823 ERROR Slow processing
+2025-07-27 20:59:39,218 INFO Request processed in 0.39s
+2025-07-27 20:59:40,198 ERROR Slow processing
+2025-07-27 20:59:41,092 ERROR Slow processing
+2025-07-27 20:59:41,599 INFO Request processed in 0.51s
+2025-07-27 20:59:42,206 INFO Request processed in 0.61s
+2025-07-27 20:59:42,292 INFO Request processed in 0.09s
+2025-07-27 20:59:42,567 INFO Request processed in 0.27s
+2025-07-27 20:59:43,203 INFO Request processed in 0.64s
+2025-07-27 20:59:43,726 INFO Request processed in 0.52s
+2025-07-27 20:59:44,390 INFO Request processed in 0.66s
+2025-07-27 20:59:44,565 INFO Request processed in 0.17s
+2025-07-27 20:59:44,676 INFO Request processed in 0.11s
+2025-07-27 20:59:44,936 INFO Request processed in 0.26s
+2025-07-27 20:59:45,501 INFO Request processed in 0.56s
+2025-07-27 20:59:46,100 INFO Request processed in 0.60s
+2025-07-27 20:59:46,922 ERROR Slow processing
+2025-07-27 20:59:47,048 INFO Request processed in 0.12s
+2025-07-27 20:59:47,779 INFO Request processed in 0.73s
+2025-07-27 20:59:47,921 INFO Request processed in 0.14s
+2025-07-27 20:59:48,532 INFO Request processed in 0.61s
+2025-07-27 20:59:49,044 INFO Request processed in 0.51s
+2025-07-27 20:59:49,667 INFO Request processed in 0.62s
+2025-07-27 20:59:49,739 INFO Request processed in 0.07s
+2025-07-27 20:59:49,914 INFO Request processed in 0.17s
+2025-07-27 20:59:50,220 INFO Request processed in 0.31s
+2025-07-27 20:59:50,259 INFO Request processed in 0.04s
+2025-07-27 20:59:51,062 ERROR Slow processing
+2025-07-27 20:59:51,556 INFO Request processed in 0.49s
+2025-07-27 20:59:52,466 ERROR Slow processing
+2025-07-27 20:59:52,497 INFO Request processed in 0.03s
+2025-07-27 20:59:53,399 ERROR Slow processing
+2025-07-27 20:59:53,511 INFO Request processed in 0.11s
+2025-07-27 20:59:53,713 INFO Request processed in 0.20s
+2025-07-27 20:59:53,985 INFO Request processed in 0.27s
+2025-07-27 20:59:54,621 INFO Request processed in 0.64s
+2025-07-27 20:59:55,019 INFO Request processed in 0.40s
+2025-07-27 20:59:55,842 ERROR Slow processing
+2025-07-27 20:59:56,649 ERROR Slow processing
+2025-07-27 20:59:56,788 INFO Request processed in 0.14s
+2025-07-27 20:59:57,453 INFO Request processed in 0.66s
+2025-07-28 00:01:04,526 INFO Request processed in 0.40s
+2025-07-28 00:01:05,133 INFO Request processed in 0.61s
+2025-07-28 00:01:05,975 ERROR Slow processing
+2025-07-28 00:01:06,406 INFO Request processed in 0.43s
+2025-07-28 00:01:07,093 INFO Request processed in 0.69s
+2025-07-28 00:01:07,486 INFO Request processed in 0.39s
+2025-07-28 00:01:08,234 INFO Request processed in 0.75s
+2025-07-28 00:01:08,294 INFO Request processed in 0.06s
+2025-07-28 00:01:09,272 ERROR Slow processing
+2025-07-28 00:01:10,234 ERROR Slow processing
+2025-07-28 00:01:11,225 ERROR Slow processing
+2025-07-28 00:01:11,793 INFO Request processed in 0.57s
+2025-07-28 00:01:11,999 INFO Request processed in 0.21s
+2025-07-28 00:01:12,337 INFO Request processed in 0.34s
+2025-07-28 00:01:12,751 INFO Request processed in 0.41s
+2025-07-28 00:01:13,209 INFO Request processed in 0.46s
+2025-07-28 00:01:14,089 ERROR Slow processing
+2025-07-28 00:01:14,483 INFO Request processed in 0.39s
+2025-07-28 00:01:15,059 INFO Request processed in 0.58s
+2025-07-28 00:01:15,760 INFO Request processed in 0.70s
+2025-07-28 00:01:16,118 INFO Request processed in 0.36s
+2025-07-28 00:01:16,284 INFO Request processed in 0.16s
+2025-07-28 00:01:16,444 INFO Request processed in 0.16s
+2025-07-28 00:01:16,725 INFO Request processed in 0.28s
+2025-07-28 00:01:17,548 ERROR Slow processing
+2025-07-28 00:01:18,416 ERROR Slow processing
+2025-07-28 00:01:19,295 ERROR Slow processing
+2025-07-28 00:01:20,183 ERROR Slow processing
+2025-07-28 00:01:20,636 INFO Request processed in 0.45s
+2025-07-28 00:01:20,856 INFO Request processed in 0.22s
+2025-07-28 00:01:21,626 INFO Request processed in 0.77s
+2025-07-28 00:01:21,944 INFO Request processed in 0.32s
+2025-07-28 00:01:22,519 INFO Request processed in 0.57s
+2025-07-28 00:01:22,968 INFO Request processed in 0.45s
+2025-07-28 00:01:23,409 INFO Request processed in 0.44s
+2025-07-28 00:01:23,871 INFO Request processed in 0.46s
+2025-07-28 00:01:24,113 INFO Request processed in 0.24s
+2025-07-28 00:01:24,155 INFO Request processed in 0.04s
+2025-07-28 00:01:24,167 INFO Request processed in 0.01s
+2025-07-28 00:01:24,802 INFO Request processed in 0.63s
+2025-07-28 00:01:24,871 INFO Request processed in 0.07s
+2025-07-28 00:01:25,514 INFO Request processed in 0.64s
+2025-07-28 00:01:26,046 INFO Request processed in 0.53s
+2025-07-28 00:01:26,625 INFO Request processed in 0.58s
+2025-07-28 00:01:26,790 INFO Request processed in 0.16s
+2025-07-28 00:01:27,626 ERROR Slow processing
+2025-07-28 00:01:28,342 INFO Request processed in 0.71s
+2025-07-28 00:01:28,666 INFO Request processed in 0.32s
+2025-07-28 00:01:28,784 INFO Request processed in 0.12s
+2025-07-28 00:01:29,151 INFO Request processed in 0.37s
+2025-07-28 00:01:29,330 INFO Request processed in 0.18s
+2025-07-28 00:01:29,911 INFO Request processed in 0.58s
+2025-07-28 00:01:30,185 INFO Request processed in 0.27s
+2025-07-28 00:01:30,906 INFO Request processed in 0.72s
+2025-07-28 00:01:31,183 INFO Request processed in 0.27s
+2025-07-28 00:01:31,426 INFO Request processed in 0.24s
+2025-07-28 00:01:31,498 INFO Request processed in 0.07s
+2025-07-28 00:01:31,881 INFO Request processed in 0.38s
+2025-07-28 00:01:32,169 INFO Request processed in 0.29s
+2025-07-28 00:01:32,905 INFO Request processed in 0.73s
+2025-07-28 00:01:33,652 INFO Request processed in 0.75s
+2025-07-28 00:01:34,061 INFO Request processed in 0.41s
+2025-07-28 00:01:34,672 INFO Request processed in 0.61s
+2025-07-28 00:01:35,491 ERROR Slow processing
+2025-07-28 00:01:36,068 INFO Request processed in 0.58s
+2025-07-28 00:01:36,862 INFO Request processed in 0.79s
+2025-07-28 00:01:37,702 ERROR Slow processing
+2025-07-28 00:01:38,199 INFO Request processed in 0.50s
+2025-07-28 00:01:38,752 INFO Request processed in 0.55s
+2025-07-28 00:01:39,247 INFO Request processed in 0.49s
+2025-07-28 00:01:39,378 INFO Request processed in 0.13s
+2025-07-28 00:01:39,477 INFO Request processed in 0.10s
+2025-07-28 00:01:40,016 INFO Request processed in 0.54s
+2025-07-28 00:01:40,441 INFO Request processed in 0.42s
+2025-07-28 00:01:41,129 INFO Request processed in 0.69s
+2025-07-28 00:01:41,693 INFO Request processed in 0.56s
+2025-07-28 00:01:42,524 ERROR Slow processing
+2025-07-28 00:01:43,442 ERROR Slow processing
+2025-07-28 00:01:44,140 INFO Request processed in 0.70s
+2025-07-28 00:01:44,410 INFO Request processed in 0.27s
+2025-07-28 00:01:44,622 INFO Request processed in 0.21s
+2025-07-28 00:01:44,887 INFO Request processed in 0.26s
+2025-07-28 00:01:44,914 INFO Request processed in 0.03s
+2025-07-28 00:01:45,777 ERROR Slow processing
+2025-07-28 00:01:46,187 INFO Request processed in 0.41s
+2025-07-28 00:01:46,464 INFO Request processed in 0.28s
+2025-07-28 00:01:46,884 INFO Request processed in 0.42s
+2025-07-28 00:01:47,270 INFO Request processed in 0.39s
+2025-07-28 00:01:47,472 INFO Request processed in 0.20s
+2025-07-28 00:01:48,431 ERROR Slow processing
+2025-07-28 00:01:49,066 INFO Request processed in 0.63s
+2025-07-28 00:01:49,130 INFO Request processed in 0.06s
+2025-07-28 00:01:49,212 INFO Request processed in 0.08s
+2025-07-28 00:01:49,681 INFO Request processed in 0.47s
+2025-07-28 00:01:49,911 INFO Request processed in 0.23s
+2025-07-28 00:01:50,788 ERROR Slow processing
+2025-07-28 00:01:51,418 INFO Request processed in 0.63s
+2025-07-28 00:01:51,763 INFO Request processed in 0.34s
+2025-07-28 00:01:52,405 INFO Request processed in 0.64s
+2025-07-28 00:01:52,470 INFO Request processed in 0.06s
+2025-07-28 00:01:52,621 INFO Request processed in 0.15s
+2025-07-28 00:01:53,583 ERROR Slow processing
+2025-07-28 00:01:53,958 INFO Request processed in 0.37s
+2025-07-28 00:01:54,329 INFO Request processed in 0.37s
+2025-07-28 00:01:55,307 ERROR Slow processing
+2025-07-28 00:01:55,383 INFO Request processed in 0.07s
+2025-07-28 00:01:55,782 INFO Request processed in 0.40s
+2025-07-28 00:01:55,943 INFO Request processed in 0.16s
+2025-07-28 00:01:56,511 INFO Request processed in 0.57s
+2025-07-28 00:01:57,374 ERROR Slow processing
+2025-07-28 00:01:57,682 INFO Request processed in 0.31s
+2025-07-28 00:01:58,255 INFO Request processed in 0.57s
+2025-07-28 00:01:58,937 INFO Request processed in 0.68s
+2025-07-28 00:01:59,019 INFO Request processed in 0.08s
+2025-07-28 00:01:59,858 ERROR Slow processing
+2025-07-28 00:02:00,351 INFO Request processed in 0.49s
+2025-07-28 00:02:01,072 INFO Request processed in 0.72s
+2025-07-28 00:02:01,463 INFO Request processed in 0.39s
+2025-07-28 00:02:02,180 INFO Request processed in 0.72s
+2025-07-28 00:02:02,303 INFO Request processed in 0.10s
+2025-07-28 00:02:02,399 INFO Request processed in 0.10s
+2025-07-28 00:02:02,907 INFO Request processed in 0.51s
+2025-07-28 00:02:03,597 INFO Request processed in 0.69s
+2025-07-28 00:02:03,650 INFO Request processed in 0.05s
+2025-07-28 00:02:04,291 INFO Request processed in 0.64s
+2025-07-28 00:02:04,933 INFO Request processed in 0.64s
+2025-07-28 00:02:05,523 INFO Request processed in 0.59s
+2025-07-28 00:02:06,039 INFO Request processed in 0.51s
+2025-07-28 00:02:06,386 INFO Request processed in 0.35s
+2025-07-28 00:02:06,485 INFO Request processed in 0.10s
+2025-07-28 00:02:07,362 ERROR Slow processing
+2025-07-28 00:02:07,703 INFO Request processed in 0.34s
+2025-07-28 00:02:07,767 INFO Request processed in 0.06s
+2025-07-28 00:02:08,194 INFO Request processed in 0.43s
+2025-07-28 00:02:08,403 INFO Request processed in 0.21s
+2025-07-28 00:02:09,080 INFO Request processed in 0.68s
+2025-07-28 00:02:09,990 ERROR Slow processing
+2025-07-28 00:02:10,986 ERROR Slow processing
+2025-07-28 00:02:11,742 INFO Request processed in 0.75s
+2025-07-28 00:02:11,971 INFO Request processed in 0.23s
+2025-07-28 00:02:12,457 INFO Request processed in 0.49s
+2025-07-28 00:02:26,991 INFO Request processed in 0.32s
+2025-07-28 00:02:27,254 INFO Request processed in 0.26s
+2025-07-28 00:02:27,596 INFO Request processed in 0.34s
+2025-07-28 00:02:28,530 ERROR Slow processing
+2025-07-28 00:02:29,252 INFO Request processed in 0.72s
+2025-07-28 00:02:30,227 ERROR Slow processing
+2025-07-28 00:02:30,406 INFO Request processed in 0.18s
+2025-07-28 00:02:31,108 INFO Request processed in 0.70s
+2025-07-28 00:02:31,664 INFO Request processed in 0.55s
+2025-07-28 00:02:32,338 INFO Request processed in 0.67s
+2025-07-28 00:02:32,362 INFO Request processed in 0.02s
+2025-07-28 00:02:32,886 INFO Request processed in 0.52s
+2025-07-28 00:02:33,603 INFO Request processed in 0.72s
+2025-07-28 00:02:33,708 INFO Request processed in 0.10s
+2025-07-28 00:02:34,704 ERROR Slow processing
+2025-07-28 00:02:35,332 INFO Request processed in 0.63s
+2025-07-28 00:02:35,561 INFO Request processed in 0.23s
+2025-07-28 00:02:36,399 ERROR Slow processing
+2025-07-28 00:02:36,771 INFO Request processed in 0.37s
+2025-07-28 00:02:37,754 ERROR Slow processing
+2025-07-28 00:02:38,250 INFO Request processed in 0.50s
+2025-07-28 00:02:38,938 INFO Request processed in 0.69s
+2025-07-28 00:02:39,439 INFO Request processed in 0.50s
+2025-07-28 00:02:40,190 INFO Request processed in 0.75s
+2025-07-28 00:02:40,815 INFO Request processed in 0.62s
+2025-07-28 00:02:41,053 INFO Request processed in 0.24s
+2025-07-28 00:02:41,341 INFO Request processed in 0.29s
+2025-07-28 00:02:41,578 INFO Request processed in 0.24s
+2025-07-28 00:02:41,699 INFO Request processed in 0.12s
+2025-07-28 00:02:42,268 INFO Request processed in 0.57s
+2025-07-28 00:02:43,062 INFO Request processed in 0.79s
+2025-07-28 00:02:43,312 INFO Request processed in 0.25s
+2025-07-28 00:02:43,765 INFO Request processed in 0.45s
+2025-07-28 00:02:44,521 INFO Request processed in 0.75s
+2025-07-28 00:02:45,440 ERROR Slow processing
+2025-07-28 00:02:45,661 INFO Request processed in 0.22s
+2025-07-28 00:02:46,417 INFO Request processed in 0.75s
+2025-07-28 00:02:46,521 INFO Request processed in 0.10s
+2025-07-28 00:02:46,960 INFO Request processed in 0.44s
+2025-07-28 00:02:47,057 INFO Request processed in 0.10s
+2025-07-28 00:02:47,204 INFO Request processed in 0.15s
+2025-07-28 00:02:48,160 ERROR Slow processing
+2025-07-28 00:02:49,151 ERROR Slow processing
+2025-07-28 00:02:49,242 INFO Request processed in 0.09s
+2025-07-28 00:02:49,902 INFO Request processed in 0.66s
+2025-07-28 00:02:50,046 INFO Request processed in 0.14s
+2025-07-28 00:02:50,830 INFO Request processed in 0.78s
+2025-07-28 00:02:51,640 ERROR Slow processing
+2025-07-28 00:02:52,439 INFO Request processed in 0.80s
+2025-07-28 00:02:53,218 INFO Request processed in 0.78s
+2025-07-28 00:02:53,575 INFO Request processed in 0.36s
+2025-07-28 00:02:54,469 ERROR Slow processing
+2025-07-28 00:02:55,053 INFO Request processed in 0.58s
+2025-07-28 00:02:55,745 INFO Request processed in 0.69s
+2025-07-28 00:02:56,162 INFO Request processed in 0.42s
+2025-07-28 00:02:56,821 INFO Request processed in 0.66s
+2025-07-28 00:02:57,551 INFO Request processed in 0.73s
+2025-07-28 00:02:57,966 INFO Request processed in 0.41s
+2025-07-28 00:02:58,348 INFO Request processed in 0.38s
+2025-07-28 00:02:58,909 INFO Request processed in 0.56s
+2025-07-28 00:02:58,988 INFO Request processed in 0.08s
+2025-07-28 00:02:59,624 INFO Request processed in 0.64s
+2025-07-28 00:03:00,532 ERROR Slow processing
+2025-07-28 00:03:01,152 INFO Request processed in 0.62s
+2025-07-28 00:03:01,343 INFO Request processed in 0.19s
+2025-07-28 00:03:01,429 INFO Request processed in 0.09s
+2025-07-28 00:03:01,696 INFO Request processed in 0.27s
+2025-07-28 00:03:02,480 INFO Request processed in 0.78s
+2025-07-28 00:03:03,477 ERROR Slow processing
+2025-07-28 00:03:04,105 INFO Request processed in 0.63s
+2025-07-28 00:03:04,873 INFO Request processed in 0.77s
+2025-07-28 00:03:05,499 INFO Request processed in 0.63s
+2025-07-28 00:03:06,064 INFO Request processed in 0.56s
+2025-07-28 00:03:06,879 ERROR Slow processing
+2025-07-28 00:03:07,204 INFO Request processed in 0.32s
+2025-07-28 00:03:07,226 INFO Request processed in 0.02s
+2025-07-28 00:03:08,221 ERROR Slow processing
+2025-07-28 00:03:08,506 INFO Request processed in 0.28s
+2025-07-28 00:03:08,558 INFO Request processed in 0.05s
+2025-07-28 00:03:08,717 INFO Request processed in 0.16s
+2025-07-28 00:03:09,712 ERROR Slow processing
+2025-07-28 00:03:10,432 INFO Request processed in 0.72s
+2025-07-28 00:03:11,347 ERROR Slow processing
+2025-07-28 00:03:12,061 INFO Request processed in 0.71s
+2025-07-28 00:03:12,906 ERROR Slow processing
+2025-07-28 00:03:13,319 INFO Request processed in 0.41s
+2025-07-28 00:03:13,957 INFO Request processed in 0.64s
+2025-07-28 00:03:14,478 INFO Request processed in 0.52s
+2025-07-28 00:03:15,385 ERROR Slow processing
+2025-07-28 00:03:15,402 INFO Request processed in 0.02s
+2025-07-28 00:03:15,911 INFO Request processed in 0.51s
+2025-07-28 00:03:16,301 INFO Request processed in 0.39s
+2025-07-28 00:03:16,822 INFO Request processed in 0.52s
+2025-07-28 00:03:17,156 INFO Request processed in 0.33s
+2025-07-28 00:03:17,304 INFO Request processed in 0.15s
+2025-07-28 00:03:17,837 INFO Request processed in 0.53s
+2025-07-28 00:03:18,115 INFO Request processed in 0.28s
+2025-07-28 00:03:18,643 INFO Request processed in 0.53s
+2025-07-28 00:03:18,669 INFO Request processed in 0.03s
+2025-07-28 00:03:18,685 INFO Request processed in 0.02s
+2025-07-28 00:03:19,152 INFO Request processed in 0.47s
+2025-07-28 00:03:20,086 ERROR Slow processing
+2025-07-28 00:03:20,593 INFO Request processed in 0.51s
+2025-07-28 00:03:20,794 INFO Request processed in 0.20s
+2025-07-28 00:03:21,231 INFO Request processed in 0.44s
+2025-07-28 00:03:21,500 INFO Request processed in 0.27s
+2025-07-28 00:03:22,307 INFO Request processed in 0.80s
+2025-07-28 00:03:22,351 INFO Request processed in 0.04s
+2025-07-28 00:03:22,896 INFO Request processed in 0.54s
+2025-07-28 00:03:23,481 INFO Request processed in 0.58s
+2025-07-28 00:03:23,994 INFO Request processed in 0.51s
+2025-07-28 00:03:24,300 INFO Request processed in 0.31s
+2025-07-28 00:03:24,831 INFO Request processed in 0.53s
+2025-07-28 00:03:25,263 INFO Request processed in 0.43s
+2025-07-28 00:03:26,053 INFO Request processed in 0.79s
+2025-07-28 00:03:26,487 INFO Request processed in 0.43s
+2025-07-28 00:03:26,902 INFO Request processed in 0.41s
+2025-07-28 00:03:27,038 INFO Request processed in 0.13s
+2025-07-28 00:03:27,647 INFO Request processed in 0.61s
+2025-07-28 00:03:27,711 INFO Request processed in 0.06s
+2025-07-28 00:03:28,552 ERROR Slow processing
+2025-07-28 00:03:28,935 INFO Request processed in 0.38s
+2025-07-28 00:03:29,481 INFO Request processed in 0.55s
+2025-07-28 00:03:29,534 INFO Request processed in 0.05s
+2025-07-28 00:03:29,814 INFO Request processed in 0.28s
+2025-07-28 00:03:30,197 INFO Request processed in 0.38s
+2025-07-28 00:03:30,351 INFO Request processed in 0.15s
+2025-07-28 00:03:31,132 INFO Request processed in 0.78s
+2025-07-28 00:03:31,809 INFO Request processed in 0.68s
+2025-07-28 00:03:32,341 INFO Request processed in 0.53s
+2025-07-28 00:03:32,692 INFO Request processed in 0.35s
+2025-07-28 00:03:32,824 INFO Request processed in 0.13s
+2025-07-28 00:03:33,519 INFO Request processed in 0.69s
+2025-07-28 00:03:33,661 INFO Request processed in 0.14s
+2025-07-28 00:03:34,238 INFO Request processed in 0.58s
+2025-07-28 00:03:34,537 INFO Request processed in 0.30s
+2025-07-28 00:03:34,541 INFO Request processed in 0.00s
+2025-07-28 00:03:34,651 INFO Request processed in 0.11s
+2025-07-28 00:03:34,991 INFO Request processed in 0.34s
+2025-07-28 00:03:35,819 ERROR Slow processing
+2025-07-28 00:03:36,506 INFO Request processed in 0.69s
+2025-07-28 00:03:36,714 INFO Request processed in 0.21s
+2025-07-28 00:03:37,668 ERROR Slow processing
+2025-07-28 00:03:37,690 INFO Request processed in 0.02s
+2025-07-28 00:03:38,449 INFO Request processed in 0.76s
+2025-07-28 00:03:38,792 INFO Request processed in 0.34s
+2025-07-28 00:03:39,788 ERROR Slow processing
+2025-07-28 00:03:40,269 INFO Request processed in 0.48s
+2025-07-28 00:03:40,635 INFO Request processed in 0.36s
+2025-07-28 00:03:41,161 INFO Request processed in 0.53s
+2025-07-28 00:03:41,167 INFO Request processed in 0.01s
+2025-07-28 00:03:41,841 INFO Request processed in 0.67s
+2025-07-28 00:03:42,741 ERROR Slow processing
+2025-07-28 00:03:43,429 INFO Request processed in 0.67s
+2025-07-28 00:03:44,031 INFO Request processed in 0.60s
+2025-07-28 00:03:44,708 INFO Request processed in 0.68s
+2025-07-28 00:03:45,689 ERROR Slow processing
+2025-07-28 00:03:46,673 ERROR Slow processing
+2025-07-28 00:03:46,975 INFO Request processed in 0.30s
+2025-07-28 00:03:47,879 ERROR Slow processing
+2025-07-28 00:03:48,506 INFO Request processed in 0.63s
+2025-07-28 00:03:49,266 INFO Request processed in 0.76s
+2025-07-28 00:03:49,626 INFO Request processed in 0.36s
+2025-07-28 00:03:49,791 INFO Request processed in 0.16s
+2025-07-28 00:03:50,196 INFO Request processed in 0.40s
+2025-07-28 00:03:51,095 ERROR Slow processing
+2025-07-28 00:03:51,769 INFO Request processed in 0.67s
+2025-07-28 00:03:51,839 INFO Request processed in 0.07s
+2025-07-28 00:03:52,409 INFO Request processed in 0.57s
+2025-07-28 00:03:53,129 INFO Request processed in 0.72s
+2025-07-28 00:03:53,468 INFO Request processed in 0.34s
+2025-07-28 00:03:53,693 INFO Request processed in 0.22s
+2025-07-28 00:03:54,237 INFO Request processed in 0.54s
+2025-07-28 00:03:54,488 INFO Request processed in 0.25s
+2025-07-28 00:05:07,547 INFO Request processed in 0.47s
+2025-07-28 00:05:08,421 ERROR Slow processing
+2025-07-28 00:05:08,872 INFO Request processed in 0.45s
+2025-07-28 00:05:08,996 INFO Request processed in 0.12s
+2025-07-28 00:05:09,211 INFO Request processed in 0.21s
+2025-07-28 00:05:09,542 INFO Request processed in 0.33s
+2025-07-28 00:05:10,274 INFO Request processed in 0.73s
+2025-07-28 00:05:10,822 INFO Request processed in 0.55s
+2025-07-28 00:05:11,011 INFO Request processed in 0.19s
+2025-07-28 00:05:11,185 INFO Request processed in 0.17s
+2025-07-28 00:05:11,662 INFO Request processed in 0.48s
+2025-07-28 00:05:11,848 INFO Request processed in 0.19s
+2025-07-28 00:05:12,530 INFO Request processed in 0.68s
+2025-07-28 00:05:13,022 INFO Request processed in 0.49s
+2025-07-28 00:05:13,677 INFO Request processed in 0.65s
+2025-07-28 00:05:13,698 INFO Request processed in 0.02s
+2025-07-28 00:05:14,081 INFO Request processed in 0.38s
+2025-07-28 00:05:14,475 INFO Request processed in 0.39s
+2025-07-28 00:05:15,351 ERROR Slow processing
+2025-07-28 00:05:15,358 INFO Request processed in 0.01s
+2025-07-28 00:05:15,547 INFO Request processed in 0.19s
+2025-07-28 00:05:16,418 ERROR Slow processing
+2025-07-28 00:05:16,938 INFO Request processed in 0.52s
+2025-07-28 00:05:17,666 INFO Request processed in 0.73s
+2025-07-28 00:05:17,741 INFO Request processed in 0.07s
+2025-07-28 00:05:18,733 ERROR Slow processing
+2025-07-28 00:05:19,283 INFO Request processed in 0.55s
+2025-07-28 00:05:20,068 INFO Request processed in 0.78s
+2025-07-28 00:05:20,735 INFO Request processed in 0.67s
+2025-07-28 00:05:21,251 INFO Request processed in 0.52s
+2025-07-28 00:05:22,125 ERROR Slow processing
+2025-07-28 00:05:22,999 ERROR Slow processing
+2025-07-28 00:05:23,212 INFO Request processed in 0.21s
+2025-07-28 00:05:23,993 INFO Request processed in 0.78s
+2025-07-28 00:05:24,570 INFO Request processed in 0.58s
+2025-07-28 00:05:25,056 INFO Request processed in 0.48s
+2025-07-28 00:05:25,554 INFO Request processed in 0.50s
+2025-07-28 00:05:26,398 ERROR Slow processing
+2025-07-28 00:05:26,648 INFO Request processed in 0.25s
+2025-07-28 00:05:26,650 INFO Request processed in 0.00s
+2025-07-28 00:05:26,914 INFO Request processed in 0.26s
+2025-07-28 00:05:27,138 INFO Request processed in 0.22s
+2025-07-28 00:05:27,152 INFO Request processed in 0.01s
+2025-07-28 00:05:28,153 ERROR Slow processing
+2025-07-28 00:05:28,397 INFO Request processed in 0.24s
+2025-07-28 00:05:28,885 INFO Request processed in 0.49s
+2025-07-28 00:05:29,110 INFO Request processed in 0.22s
+2025-07-28 00:05:29,662 INFO Request processed in 0.55s
+2025-07-28 00:05:29,951 INFO Request processed in 0.29s
+2025-07-28 00:05:30,611 INFO Request processed in 0.66s
+2025-07-28 00:05:30,914 INFO Request processed in 0.30s
+2025-07-28 00:05:31,728 ERROR Slow processing
+2025-07-28 00:05:32,042 INFO Request processed in 0.31s
+2025-07-28 00:05:32,186 INFO Request processed in 0.14s
+2025-07-28 00:05:32,423 INFO Request processed in 0.24s
+2025-07-28 00:05:33,396 ERROR Slow processing
+2025-07-28 00:05:34,326 ERROR Slow processing
+2025-07-28 00:05:34,630 INFO Request processed in 0.30s
+2025-07-28 00:05:35,214 INFO Request processed in 0.58s
+2025-07-28 00:05:35,289 INFO Request processed in 0.07s
+2025-07-28 00:05:35,407 INFO Request processed in 0.12s
+2025-07-28 00:05:36,072 INFO Request processed in 0.66s
+2025-07-28 00:05:36,179 INFO Request processed in 0.11s
+2025-07-28 00:05:36,345 INFO Request processed in 0.17s
+2025-07-28 00:05:36,492 INFO Request processed in 0.15s
+2025-07-28 00:05:36,846 INFO Request processed in 0.35s
+2025-07-28 00:05:37,255 INFO Request processed in 0.41s
+2025-07-28 00:05:37,989 INFO Request processed in 0.73s
+2025-07-28 00:05:38,632 INFO Request processed in 0.64s
+2025-07-28 00:05:39,069 INFO Request processed in 0.44s
+2025-07-28 00:05:39,479 INFO Request processed in 0.41s
+2025-07-28 00:05:39,487 INFO Request processed in 0.01s
+2025-07-28 00:05:39,691 INFO Request processed in 0.20s
+2025-07-28 00:05:40,177 INFO Request processed in 0.48s
+2025-07-28 00:05:40,403 INFO Request processed in 0.23s
+2025-07-28 00:05:40,762 INFO Request processed in 0.36s
+2025-07-28 00:05:41,011 INFO Request processed in 0.25s
+2025-07-28 00:05:41,747 INFO Request processed in 0.74s
+2025-07-28 00:05:42,635 ERROR Slow processing
+2025-07-28 00:05:43,512 ERROR Slow processing
+2025-07-28 00:05:44,147 INFO Request processed in 0.64s
+2025-07-28 00:05:44,169 INFO Request processed in 0.02s
+2025-07-28 00:05:45,008 ERROR Slow processing
+2025-07-28 00:05:45,542 INFO Request processed in 0.53s
+2025-07-28 00:05:46,146 INFO Request processed in 0.60s
+2025-07-28 00:05:46,459 INFO Request processed in 0.31s
+2025-07-28 00:05:47,411 ERROR Slow processing
+2025-07-28 00:05:48,051 INFO Request processed in 0.64s
+2025-07-28 00:05:48,790 INFO Request processed in 0.74s
+2025-07-28 00:05:49,271 INFO Request processed in 0.48s
+2025-07-28 00:05:49,500 INFO Request processed in 0.23s
+2025-07-28 00:05:49,897 INFO Request processed in 0.40s
+2025-07-28 00:05:50,206 INFO Request processed in 0.31s
+2025-07-28 00:05:50,994 INFO Request processed in 0.79s
+2025-07-28 00:05:51,806 ERROR Slow processing
+2025-07-28 00:05:52,790 ERROR Slow processing
+2025-07-28 00:05:53,724 ERROR Slow processing
+2025-07-28 00:05:54,057 INFO Request processed in 0.33s
+2025-07-28 00:05:54,212 INFO Request processed in 0.15s
+2025-07-28 00:05:54,927 INFO Request processed in 0.71s
+2025-07-28 00:05:55,762 ERROR Slow processing
+2025-07-28 00:05:55,765 INFO Request processed in 0.00s
+2025-07-28 00:05:56,459 INFO Request processed in 0.69s
+2025-07-28 00:05:56,564 INFO Request processed in 0.10s
+2025-07-28 00:05:57,562 ERROR Slow processing
+2025-07-28 00:05:57,594 INFO Request processed in 0.03s
+2025-07-28 00:05:58,564 ERROR Slow processing
+2025-07-28 00:05:58,776 INFO Request processed in 0.21s
+2025-07-28 00:05:59,089 INFO Request processed in 0.31s
+2025-07-28 00:05:59,323 INFO Request processed in 0.23s
+2025-07-28 00:05:59,511 INFO Request processed in 0.19s
+2025-07-28 00:05:59,801 INFO Request processed in 0.29s
+2025-07-28 00:05:59,985 INFO Request processed in 0.18s
+2025-07-28 00:06:00,395 INFO Request processed in 0.41s
+2025-07-28 00:06:00,960 INFO Request processed in 0.56s
+2025-07-28 00:06:01,938 ERROR Slow processing
+2025-07-28 00:06:02,650 INFO Request processed in 0.71s
+2025-07-28 00:06:03,083 INFO Request processed in 0.43s
+2025-07-28 00:06:03,760 INFO Request processed in 0.68s
+2025-07-28 00:06:04,123 INFO Request processed in 0.36s
+2025-07-28 00:06:05,086 ERROR Slow processing
+2025-07-28 00:06:05,253 INFO Request processed in 0.17s
+2025-07-28 00:06:06,241 ERROR Slow processing
+2025-07-28 00:06:07,222 ERROR Slow processing
+2025-07-28 00:06:08,147 ERROR Slow processing
+2025-07-28 00:06:08,870 INFO Request processed in 0.72s
+2025-07-28 00:06:09,527 INFO Request processed in 0.66s
+2025-07-28 00:06:10,300 INFO Request processed in 0.77s
+2025-07-28 00:06:10,538 INFO Request processed in 0.24s
+2025-07-28 00:06:11,034 INFO Request processed in 0.49s
+2025-07-28 00:06:11,228 INFO Request processed in 0.19s
+2025-07-28 00:06:11,237 INFO Request processed in 0.01s
+2025-07-28 00:06:11,626 INFO Request processed in 0.39s
+2025-07-28 00:06:11,773 INFO Request processed in 0.15s
+2025-07-28 00:06:12,635 ERROR Slow processing
+2025-07-28 00:06:13,212 INFO Request processed in 0.58s
+2025-07-28 00:06:13,801 INFO Request processed in 0.59s
+2025-07-28 00:06:14,599 INFO Request processed in 0.80s
+2025-07-28 00:06:14,905 INFO Request processed in 0.31s
+2025-07-28 00:06:15,507 INFO Request processed in 0.60s
+2025-07-28 00:06:15,509 INFO Request processed in 0.00s
+2025-07-28 00:06:15,999 INFO Request processed in 0.49s
+2025-07-28 00:06:16,465 INFO Request processed in 0.47s
+2025-07-28 00:06:16,517 INFO Request processed in 0.05s
+2025-07-28 00:06:16,649 INFO Request processed in 0.13s
+2025-07-28 00:06:17,052 INFO Request processed in 0.40s
+2025-07-28 00:06:17,976 ERROR Slow processing
+2025-07-28 00:06:18,105 INFO Request processed in 0.13s
+2025-07-28 00:06:18,461 INFO Request processed in 0.35s
+2025-07-28 00:06:18,905 INFO Request processed in 0.44s
+2025-07-28 00:06:19,525 INFO Request processed in 0.62s
+2025-07-28 00:06:20,422 ERROR Slow processing
+2025-07-28 00:06:21,301 ERROR Slow processing
+2025-07-28 00:06:21,663 INFO Request processed in 0.36s
+2025-07-28 00:06:21,762 INFO Request processed in 0.10s
+2025-07-28 00:06:21,931 INFO Request processed in 0.17s
+2025-07-28 00:06:22,574 INFO Request processed in 0.64s
+2025-07-28 00:06:23,210 INFO Request processed in 0.63s
+2025-07-28 00:06:24,199 ERROR Slow processing
+2025-07-28 00:06:24,930 INFO Request processed in 0.73s
+2025-07-28 00:06:25,038 INFO Request processed in 0.11s
+2025-07-28 00:06:25,065 INFO Request processed in 0.03s
+2025-07-28 00:06:25,753 INFO Request processed in 0.69s
+2025-07-28 00:06:25,858 INFO Request processed in 0.10s
+2025-07-28 00:06:25,959 INFO Request processed in 0.10s
+2025-07-28 00:06:26,671 INFO Request processed in 0.71s
+2025-07-28 00:06:27,189 INFO Request processed in 0.52s
+2025-07-28 00:06:27,479 INFO Request processed in 0.29s
+2025-07-28 00:06:28,199 INFO Request processed in 0.72s
+2025-07-28 00:06:28,834 INFO Request processed in 0.63s
+2025-07-28 00:06:29,577 INFO Request processed in 0.74s
+2025-07-28 00:06:30,058 INFO Request processed in 0.48s
+2025-07-28 00:06:30,671 INFO Request processed in 0.61s
+2025-07-28 00:06:30,817 INFO Request processed in 0.15s
+2025-07-28 00:06:31,154 INFO Request processed in 0.34s
+2025-07-28 00:06:31,876 INFO Request processed in 0.72s
+2025-07-28 00:06:31,991 INFO Request processed in 0.11s
+2025-07-28 00:06:32,441 INFO Request processed in 0.45s
+2025-07-28 00:06:32,609 INFO Request processed in 0.17s
+2025-07-28 00:06:32,764 INFO Request processed in 0.15s
+2025-07-28 00:06:33,575 ERROR Slow processing
+2025-07-28 00:06:34,314 INFO Request processed in 0.74s
+2025-07-28 00:06:35,253 ERROR Slow processing
+2025-07-28 00:06:35,457 INFO Request processed in 0.20s
+2025-07-28 00:06:36,286 ERROR Slow processing
+2025-07-28 00:06:36,504 INFO Request processed in 0.22s
+2025-07-28 00:06:37,029 INFO Request processed in 0.52s
+2025-07-28 00:06:37,217 INFO Request processed in 0.19s
+2025-07-28 00:06:37,249 INFO Request processed in 0.03s
+2025-07-28 00:06:37,535 INFO Request processed in 0.28s
+2025-07-28 00:06:37,634 INFO Request processed in 0.10s
+2025-07-28 00:06:38,241 INFO Request processed in 0.61s
+2025-07-28 00:06:38,605 INFO Request processed in 0.36s
+2025-07-28 00:06:38,815 INFO Request processed in 0.21s
+2025-07-28 00:06:39,270 INFO Request processed in 0.45s
+2025-07-28 00:06:40,197 ERROR Slow processing
+2025-07-28 00:06:40,316 INFO Request processed in 0.12s
+2025-07-28 00:06:40,696 INFO Request processed in 0.38s
+2025-07-28 00:06:41,667 ERROR Slow processing
+2025-07-28 00:06:42,420 INFO Request processed in 0.75s
+2025-07-28 00:06:42,475 INFO Request processed in 0.05s
+2025-07-28 00:06:42,887 INFO Request processed in 0.41s
+2025-07-28 00:06:42,988 INFO Request processed in 0.10s
+2025-07-28 00:06:43,583 INFO Request processed in 0.59s
+2025-07-28 00:06:44,363 INFO Request processed in 0.78s
+2025-07-28 00:06:44,942 INFO Request processed in 0.58s
+2025-07-28 00:06:45,785 ERROR Slow processing
+2025-07-28 00:06:45,995 INFO Request processed in 0.21s
+2025-07-28 00:06:46,344 INFO Request processed in 0.35s
+2025-07-28 00:06:46,716 INFO Request processed in 0.37s
+2025-07-28 00:06:47,281 INFO Request processed in 0.56s
+2025-07-28 00:06:47,561 INFO Request processed in 0.28s
+2025-07-28 00:06:48,356 INFO Request processed in 0.79s
+2025-07-28 00:06:48,391 INFO Request processed in 0.03s
+2025-07-28 00:06:48,615 INFO Request processed in 0.22s
+2025-07-28 00:06:48,842 INFO Request processed in 0.23s
+2025-07-28 00:06:48,924 INFO Request processed in 0.08s
+2025-07-28 00:06:49,033 INFO Request processed in 0.11s
+2025-07-28 00:06:49,352 INFO Request processed in 0.32s
+2025-07-28 00:06:50,161 ERROR Slow processing
+2025-07-28 00:06:50,219 INFO Request processed in 0.06s
+2025-07-28 00:06:50,747 INFO Request processed in 0.53s
+2025-07-28 00:06:50,792 INFO Request processed in 0.04s
+2025-07-28 00:06:51,732 ERROR Slow processing
+2025-07-28 00:06:52,050 INFO Request processed in 0.32s
+2025-07-28 00:06:52,448 INFO Request processed in 0.40s
+2025-07-28 00:06:53,313 ERROR Slow processing
+2025-07-28 00:06:53,931 INFO Request processed in 0.62s
+2025-07-28 00:06:54,596 INFO Request processed in 0.66s
+2025-07-28 00:06:54,695 INFO Request processed in 0.10s
+2025-07-28 00:06:55,082 INFO Request processed in 0.39s
+2025-07-28 00:06:55,417 INFO Request processed in 0.33s
+2025-07-28 00:06:56,284 ERROR Slow processing
+2025-07-28 00:06:56,285 INFO Request processed in 0.00s
+2025-07-28 00:06:57,131 ERROR Slow processing
+2025-07-28 00:06:58,891 INFO Request processed in 0.43s
+2025-07-28 00:06:59,198 INFO Request processed in 0.31s
+2025-07-28 00:07:00,080 ERROR Slow processing
+2025-07-28 00:07:00,302 INFO Request processed in 0.22s
+2025-07-28 00:07:00,791 INFO Request processed in 0.49s
+2025-07-28 00:07:01,764 ERROR Slow processing
+2025-07-28 00:07:02,395 INFO Request processed in 0.63s
+2025-07-28 00:07:02,528 INFO Request processed in 0.13s
+2025-07-28 00:07:02,808 INFO Request processed in 0.28s
+2025-07-28 00:07:03,783 ERROR Slow processing
+2025-07-28 00:07:04,507 INFO Request processed in 0.72s
+2025-07-28 00:07:05,249 INFO Request processed in 0.74s
+2025-07-28 00:07:05,342 INFO Request processed in 0.09s
+2025-07-28 00:07:06,193 ERROR Slow processing
+2025-07-28 00:07:06,442 INFO Request processed in 0.25s
+2025-07-28 00:07:06,446 INFO Request processed in 0.00s
+2025-07-28 00:07:07,276 ERROR Slow processing
+2025-07-28 00:07:08,028 INFO Request processed in 0.75s
+2025-07-28 00:07:08,034 INFO Request processed in 0.01s
+2025-07-28 00:07:08,609 INFO Request processed in 0.57s
+2025-07-28 00:07:09,571 ERROR Slow processing
+2025-07-28 00:07:09,852 INFO Request processed in 0.28s
+2025-07-28 00:07:10,504 INFO Request processed in 0.65s
+2025-07-28 00:07:10,696 INFO Request processed in 0.19s
+2025-07-28 00:07:11,329 INFO Request processed in 0.63s
+2025-07-28 00:07:11,938 INFO Request processed in 0.61s
+2025-07-28 00:07:12,159 INFO Request processed in 0.22s
+2025-07-28 00:07:13,008 ERROR Slow processing
+2025-07-28 00:07:13,897 ERROR Slow processing
+2025-07-28 00:07:14,469 INFO Request processed in 0.57s
+2025-07-28 00:07:14,497 INFO Request processed in 0.03s
+2025-07-28 00:07:14,602 INFO Request processed in 0.10s
+2025-07-28 00:07:14,997 INFO Request processed in 0.39s
+2025-07-28 00:07:15,207 INFO Request processed in 0.21s
+2025-07-28 00:07:15,329 INFO Request processed in 0.12s
+2025-07-28 00:07:15,770 INFO Request processed in 0.44s
+2025-07-28 00:07:16,767 ERROR Slow processing
+2025-07-28 00:07:17,551 INFO Request processed in 0.78s
+2025-07-28 00:07:17,645 INFO Request processed in 0.09s
+2025-07-28 00:07:17,739 INFO Request processed in 0.09s
+2025-07-28 00:07:17,767 INFO Request processed in 0.03s
+2025-07-28 00:07:17,986 INFO Request processed in 0.22s
+2025-07-28 00:07:18,307 INFO Request processed in 0.32s
+2025-07-28 00:07:18,882 INFO Request processed in 0.57s
+2025-07-28 00:07:19,741 ERROR Slow processing
+2025-07-28 00:07:19,931 INFO Request processed in 0.19s
+2025-07-28 00:07:20,508 INFO Request processed in 0.58s
+2025-07-28 00:07:21,235 INFO Request processed in 0.73s
+2025-07-28 00:07:22,060 ERROR Slow processing
+2025-07-28 00:07:22,789 INFO Request processed in 0.73s
+2025-07-28 00:07:23,582 INFO Request processed in 0.79s
+2025-07-28 00:07:24,066 INFO Request processed in 0.48s
+2025-07-28 00:07:24,593 INFO Request processed in 0.53s
+2025-07-28 00:07:24,932 INFO Request processed in 0.34s
+2025-07-28 00:07:24,994 INFO Request processed in 0.06s
+2025-07-28 00:07:25,534 INFO Request processed in 0.54s
+2025-07-28 00:07:26,507 ERROR Slow processing
+2025-07-28 00:07:26,980 INFO Request processed in 0.47s
+2025-07-28 00:07:27,604 INFO Request processed in 0.62s
+2025-07-28 00:07:27,853 INFO Request processed in 0.25s
+2025-07-28 00:07:28,085 INFO Request processed in 0.23s
+2025-07-28 00:07:28,401 INFO Request processed in 0.32s
+2025-07-28 00:07:29,069 INFO Request processed in 0.67s
+2025-07-28 00:07:29,342 INFO Request processed in 0.27s
+2025-07-28 00:07:29,950 INFO Request processed in 0.61s
+2025-07-28 00:07:30,007 INFO Request processed in 0.06s
+2025-07-28 00:07:30,747 INFO Request processed in 0.74s
+2025-07-28 00:07:31,204 INFO Request processed in 0.46s
+2025-07-28 00:07:31,736 INFO Request processed in 0.53s
+2025-07-28 00:07:32,677 ERROR Slow processing
+2025-07-28 00:07:33,239 INFO Request processed in 0.56s
+2025-07-28 00:07:34,041 ERROR Slow processing
+2025-07-28 00:07:34,429 INFO Request processed in 0.39s
+2025-07-28 00:07:34,853 INFO Request processed in 0.42s
+2025-07-28 00:07:35,284 INFO Request processed in 0.43s
+2025-07-28 00:07:35,819 INFO Request processed in 0.53s
+2025-07-28 00:07:35,966 INFO Request processed in 0.15s
+2025-07-28 00:07:36,090 INFO Request processed in 0.12s
+2025-07-28 00:07:36,151 INFO Request processed in 0.06s
+2025-07-28 00:07:36,341 INFO Request processed in 0.19s
+2025-07-28 00:07:37,100 INFO Request processed in 0.76s
+2025-07-28 00:07:37,413 INFO Request processed in 0.31s
+2025-07-28 00:07:38,368 ERROR Slow processing
+2025-07-28 00:07:38,493 INFO Request processed in 0.12s
+2025-07-28 00:07:39,323 ERROR Slow processing
+2025-07-28 00:07:39,875 INFO Request processed in 0.55s
+2025-07-28 00:07:40,813 ERROR Slow processing
+2025-07-28 00:07:40,961 INFO Request processed in 0.15s
+2025-07-28 00:07:41,627 INFO Request processed in 0.67s
+2025-07-28 00:07:41,887 INFO Request processed in 0.26s
+2025-07-28 00:07:42,252 INFO Request processed in 0.36s
+2025-07-28 00:07:42,361 INFO Request processed in 0.11s
+2025-07-28 00:08:43,991 INFO Request processed in 0.08s
+2025-07-28 00:08:44,392 INFO Request processed in 0.40s
+2025-07-28 00:08:44,402 INFO Request processed in 0.01s
+2025-07-28 00:08:44,867 INFO Request processed in 0.46s
+2025-07-28 00:08:45,214 INFO Request processed in 0.35s
+2025-07-28 00:08:45,514 INFO Request processed in 0.30s
+2025-07-28 00:08:46,232 INFO Request processed in 0.72s
+2025-07-28 00:08:47,029 INFO Request processed in 0.80s
+2025-07-28 00:08:47,636 INFO Request processed in 0.61s
+2025-07-28 00:08:48,214 INFO Request processed in 0.58s
+2025-07-28 00:08:48,435 INFO Request processed in 0.22s
+2025-07-28 00:08:49,420 ERROR Slow processing
+2025-07-28 00:08:50,268 ERROR Slow processing
+2025-07-28 00:08:50,446 INFO Request processed in 0.18s
+2025-07-28 00:08:50,467 INFO Request processed in 0.02s
+2025-07-28 00:08:50,533 INFO Request processed in 0.07s
+2025-07-28 00:08:50,746 INFO Request processed in 0.21s
+2025-07-28 00:08:50,918 INFO Request processed in 0.17s
+2025-07-28 00:08:51,878 ERROR Slow processing
+2025-07-28 00:08:52,783 ERROR Slow processing
+2025-07-28 00:08:53,480 INFO Request processed in 0.70s
+2025-07-28 00:08:54,168 INFO Request processed in 0.69s
+2025-07-28 00:08:54,379 INFO Request processed in 0.21s
